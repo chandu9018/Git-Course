@@ -1,1 +1,1 @@
-Get The User data
+Get The User data from Remote Server
