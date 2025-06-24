@@ -6,3 +6,4 @@ print(response.json())
 print(response.json()['userId'])
 print(response.json()['title'])
 print(response.json()['completed'])
+#Python External APi Call
